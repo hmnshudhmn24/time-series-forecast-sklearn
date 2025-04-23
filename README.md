@@ -41,7 +41,3 @@ streamlit run src/main.py
 
 - Interactive line chart comparing actual vs predicted values
 - Mean Squared Error display
-
----
-
-🧠 Powered by Scikit-learn, Streamlit, and Python.
